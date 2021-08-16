@@ -1,5 +1,3 @@
-
-For creating an array of objects (allocating memory) you have to write down the following statements
 for (int i=0; i<6; i++) {
  b[i]  = new  Box();
  // Assigning object to individual reference in the array.
