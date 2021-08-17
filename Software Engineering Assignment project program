@@ -15,6 +15,7 @@ public class Employee {
   name = in.next();
   System.out.print("Enter the salary :: ");
   salary = in.nextFloat();
+  
  }
  
  public void display() {
